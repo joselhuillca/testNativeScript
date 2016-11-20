@@ -1,0 +1,22 @@
+@import url('~/platform.css');
+
+Page {
+    background-image: url("~/Images/groceries.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+TextField {
+    margin: 10;
+    padding: 10;
+}
+Image {
+    margin-top: 20;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 80;
+}
+Button {
+    margin: 10;
+    padding: 10;
+}
